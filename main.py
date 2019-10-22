@@ -1,3 +1,4 @@
+# testing
 # -*- coding: utf-8 -*-
 # @File  : main.py
 # @Author: shanghui
@@ -88,3 +89,4 @@ if __name__ == '__main__':
     X_train, y_train = featureSet(data)
     X_test = loadTestData(testFilePath)
     trainandTest(X_train, y_train, X_test)
+
